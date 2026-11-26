@@ -11,7 +11,7 @@
     />
 
     <!-- 3 Levels Cards -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
         <!-- Level 1 -->
         <x-game-card 
             number="LEVEL 01"
